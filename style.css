@@ -1,0 +1,182 @@
+.header-section {
+    background: #fff!important;
+}
+
+.slider-section {
+    background: #f9f9ff;
+}
+
+.nav-logo {
+    width: 100px;
+}
+
+.slider-btns {
+    border: none;
+    background: #8490ff !important;
+    padding: 5px 15px;
+    border-radius: 5px;
+    font-size: 17px;
+    color: #fff;
+    border: 1px solid #788ce4;
+    font-weight: 500;
+    transition: .5s;
+}
+
+.slider-btns:hover {
+    background: transparent!important;
+    border: 1px solid #788ce4;
+    color: #8490ff;
+}
+
+.hero-contant {
+    transform: translateY(70px);
+    margin-left: 50px;
+}
+
+.hero-contant h5 {
+    font-size: 17px;
+    margin-bottom: 15px;
+}
+
+.hero-contant p {
+    font-size: 15px;
+    font-weight: 500;
+}
+
+.hero-btn {
+    border: none;
+    background: #8490ff;
+    padding: 5px 10px;
+    color: #fff;
+    border: 1px solid #788ce4;
+    font-weight: 500;
+    transition: .5s;
+}
+
+.hero-btn:hover {
+    background: transparent;
+    border: 1px solid #788ce4;
+    color: #8490ff;
+}
+
+
+/* project number section start */
+
+.project-number {
+    background: #8490ff;
+}
+
+
+/* project number section end */
+
+
+/* service section start  */
+
+.service-section {
+    background: #f9f9ff;
+}
+
+.services {
+    padding: 15px;
+    background: #fff;
+}
+
+.services h2 {
+    width: 70px;
+    height: 70px;
+    line-height: 70px;
+    border-radius: 50%;
+    background: #f9f9ff;
+    margin: auto;
+}
+
+.services h5 {
+    font-size: 18px;
+}
+
+.services h6 {
+    font-size: 15px;
+}
+
+.services p {
+    font-size: 18px;
+}
+
+.service-btn {
+    border: none;
+    border: 1px solid #788ce4;
+    padding: 10px 25px;
+    color: #788ce4;
+    background: transparent;
+    font-weight: 500;
+    box-shadow: 0px 0px 6px 0px #788ce49c;
+    transition: .5s;
+}
+
+.service-btn:hover {
+    background: #788ce4;
+    color: #fff;
+}
+
+
+/* service section end */
+
+
+/* testimonial section start */
+
+.testimonial {
+    padding: 70px;
+}
+
+.t-image img {
+    width: 90px;
+    transform: translate(10px, -75px);
+}
+
+.t-content h3 {
+    margin-top: -61px;
+    font-size: 27px;
+    color: #000000ad;
+}
+
+.t-content h5 {
+    color: #000000ad;
+}
+
+.t-btn {
+    font-weight: 500;
+    transition: .5s;
+}
+
+.t-btn:hover {
+    background: rgba(0, 0, 0, 0.199);
+}
+
+
+/* testimonial section end */
+
+
+/* contact form start */
+
+.contact-form {
+    background: #f9f9ff;
+}
+
+.form-btn {
+    border: none;
+    background: #17a2b8;
+    padding: 7px 15px;
+    color: #fff;
+}
+
+.contact-info {
+    transform: translate( 20px, 100px);
+}
+
+.contact-info h5 {
+    color: #000000a8;
+    font-weight: 500;
+}
+
+
+/* contact form end */
